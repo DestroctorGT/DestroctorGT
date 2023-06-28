@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gino Tapia Barrios</h1>
-<p align="center">Frontend Developer with a background in Software Engineering. I consider myself curious, self-taught and resolute. Every day I learn new things that help me to evolve in my career. My favorite things to do when I'm not programming are going to the movies, going to the gym and playing video games. I'm currently looking for job opportunities as a Frontend Developer in startups or companies.</p>
+<p align="center">Frontend Developer with a background in Software Engineering. I consider myself curious, self-taught and resolute. Every day I learn new things that help me to evolve in my career 👨‍💻. My favorite things to do when I'm not programming are going to the movies 🎬, going to the gym and playing video games. I'm currently looking for job opportunities as a Frontend Developer in startups or companies.</p>
 
 - 🔭 I’m currently working on [Pokedex app](https://github.com/DestroctorGT/pokemon-pi)
 
